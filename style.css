@@ -1,0 +1,49 @@
+nav {
+    text-align: center;
+    color: #CD0074;
+}
+body {
+    background-color: #FFFF00;
+    color: purple;
+}
+h2 {
+    color: #8BEA00;
+}
+ul {
+color: #8BEA00;
+}
+.mom {
+    border: 2px solid purple;
+    height: 300px;
+    width: 200px;
+    color: #8BEA00;
+}
+h3 {
+    text-align: center;
+    color: #8BEA00;
+}
+h5 {
+text-align: center;
+}
+header {
+    background-color: #9FEE00;
+    color: purple;
+    text-align: center;
+}
+footer {
+    background-color:#FFD300;
+    color: purple;
+}
+h6 {
+    text-align: center;
+}
+.orange {
+    background-color: #CD0074;
+    color: green;
+}
+h4 {
+    color: #8BEA00;
+}
+a {
+    color: #8BEA00;
+}
